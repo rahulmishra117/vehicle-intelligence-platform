@@ -1,0 +1,2 @@
+"""Vehicle inspection feature module."""
+
